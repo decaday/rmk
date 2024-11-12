@@ -1,6 +1,6 @@
 # Overview
 
-This guide aims to introduce you how to build your own keyboard firmware using RMK and run it on your microcontroller. There are 3 steps of the guide:
+This guafsafsaasfs firmware using RMK and run it on your microcontroller. There are 3 steps of the guide:
 
 - setup the RMK environment
 
